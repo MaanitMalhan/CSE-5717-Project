@@ -1,0 +1,19 @@
+,0
+generation biomass,383.52861385573135
+generation fossil brown coal/lignite,448.11594037352216
+generation fossil gas,5622.496373293735
+generation fossil hard coal,4255.618624707294
+generation fossil oil,298.3331143983094
+generation hydro pumped storage consumption,475.71283339996575
+generation hydro run-of-river and poundage,972.0817865097949
+generation hydro water reservoir,2604.490861842481
+generation nuclear,6264.021817351077
+generation other,60.23710663087555
+generation other renewable,85.65143640413501
+generation solar,1433.0542006967846
+generation waste,269.5021417556685
+generation wind onshore,5466.056742246845
+forecast solar day ahead,1439.1223370837854
+forecast wind onshore day ahead,5471.837940487749
+total load forecast,28710.96733108687
+total load actual,28696.833457079218
